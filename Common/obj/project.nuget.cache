@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iCgEXwB9hah4ipRXPU9R7h2W2r+uAzCQate0rLbk+RtD92T/a7vhcIrSlEFTRB7r12HAKgqwzD/VbLFcq04Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpmma\\source\\repos\\SampleProject\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpmma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gpmma\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\gpmma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gpmma\\.nuget\\packages\\simpleinjector\\4.0.8\\simpleinjector.4.0.8.nupkg.sha512",
+    "C:\\Users\\gpmma\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\gpmma\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
