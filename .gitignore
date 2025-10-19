@@ -1,0 +1,17 @@
+# Ignore compiled binaries
+*.dll
+*.exe
+
+# Ignore debug symbols
+*.pdb
+
+# Ignore Visual Studio build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.cache
