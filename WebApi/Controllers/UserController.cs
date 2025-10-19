@@ -28,12 +28,12 @@ namespace WebApi.Controllers
         [HttpPost]
         public HttpResponseMessage CreateUser(Guid userId, [FromBody] UserModel model)
         {
-            var user = _createUserService.Create(userId, model.Name, model.Email, model.Type, model.MonthlySalary, model.Tags);
+            var user = _createUserService.Create(userId, model.Name, model.Email, model.Type, model.MonthlySalary, model.Age, model.Tags);
             return Found(new UserData(user));
         }
 
         [Route("{userId:guid}/update")]
-        [HttpPost]
+        [HttpPut]
         public HttpResponseMessage UpdateUser(Guid userId, [FromBody] UserModel model)
         {
             var user = _getUserService.GetUser(userId);
@@ -41,7 +41,7 @@ namespace WebApi.Controllers
             {
                 return DoesNotExist();
             }
-            _updateUserService.Update(user, model.Name, model.Email, model.Type, model.MonthlySalary, model.Tags);
+            _updateUserService.Update(user, model.Name, model.Email, model.Type, model.MonthlySalary,model.Age, model.Tags);
             return Found(new UserData(user));
         }
 
