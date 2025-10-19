@@ -5,6 +5,6 @@ namespace Core.Services.Users
 {
     public interface IUpdateUserService
     {
-        void Update(User user, string name, string email, UserTypes type, decimal? monthlySalary, IEnumerable<string> tags);
+        void Update(User user, string name, string email, UserTypes type, decimal? monthlySalary, int age, IEnumerable<string> tags);
     }
 }

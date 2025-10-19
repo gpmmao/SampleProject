@@ -101,6 +101,8 @@ C:\LendingPad\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.dll
 C:\LendingPad\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.pdb
 C:\LendingPad\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
 C:\LendingPad\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\WebApi.dll.config
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\WebApi.dll
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\WebApi.pdb
@@ -199,8 +201,6 @@ C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\System.Web.WebPages.Deploym
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\System.Web.WebPages.Razor.xml
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\Antlr3.Runtime.pdb
 C:\Users\gpmma\source\repos\SampleProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
-C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.dll
 C:\Users\gpmma\source\repos\SampleProject\WebApi\obj\Debug\WebApi.pdb
