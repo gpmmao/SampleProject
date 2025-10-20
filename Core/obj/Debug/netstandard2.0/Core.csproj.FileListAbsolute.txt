@@ -14,10 +14,6 @@ C:\LendingPad\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Co
 C:\LendingPad\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.pdb
 C:\LendingPad\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
 C:\LendingPad\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.CopyComplete
-C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
-C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
-C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
-C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Core.deps.json
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Core.dll
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Core.pdb
@@ -27,6 +23,10 @@ C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Data.dll
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\BusinessEntities.pdb
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Data.pdb
 C:\Users\gpmma\source\repos\SampleProject\Core\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.CopyComplete
 C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\gpmma\source\repos\SampleProject\Core\obj\Debug\netstandard2.0\Core.pdb
