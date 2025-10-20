@@ -40,7 +40,7 @@ namespace WebApi.Controllers
 
         [Route("{prodId:int}/update")]
         [HttpPut]
-        public HttpResponseMessage UpdateProductr(int prodId, [FromBody] Product model)
+        public HttpResponseMessage UpdateProduct(int prodId, [FromBody] Product model)
         {
             var product = _getProductService.GetProduct(model.Id);
             if (product == null)
