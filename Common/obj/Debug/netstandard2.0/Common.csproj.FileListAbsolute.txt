@@ -15,4 +15,3 @@ C:\Users\gpmma\source\repos\SampleProject\Common\obj\Debug\netstandard2.0\Common
 C:\Users\gpmma\source\repos\SampleProject\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
 C:\Users\gpmma\source\repos\SampleProject\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\gpmma\source\repos\SampleProject\Common\obj\Debug\netstandard2.0\Common.pdb
-C:\Users\gpmma\source\repos\SampleProject\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
